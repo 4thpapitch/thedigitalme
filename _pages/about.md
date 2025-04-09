@@ -9,24 +9,21 @@ redirect_from:
 
 I come from a strong humanities background, with a deep passion for language, culture, and storytelling. After years of dedicated study in Japanese, I achieved fluency—but then I began to wonder, what’s next? That question led me to the world of data and technology. Through Digital Humanities, I discovered how different disciplines could come together. I learned how to teach data to speak, how to listen to what it reveals on its own, and how to design meaningful ways for it to communicate with others. Whatever the data category is, I believe every detail carries a story worth sharing—that’s where the intersection of humanities and computation works at its best.
 
-A data-driven personal website
+About me
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I’m Papitchaya Boonmasuvaran (Fourth, usually go by this nickname), a Digital Humanities graduate with a passion for language, culture, and technology. After studying Japanese language and culture, I explored the power of data and programming in my master’s degree. Now, I blend my humanities background with technical skills to turn data into meaningful stories and insights. I’m excited to continue growing at the intersection of culture and computation.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+Background in Language and Culture studies
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+During my bachelor’s studies in Language and Culture, I focused on Japanese language acquisition—both inside and outside the classroom. Living in Japan immersed me in the language and culture in ways that went beyond textbooks. It was a meaningful experience that allowed me to engage deeply with a society known for its uniqueness and strong cultural identity. Through coursework, I expanded my understanding of intercultural communication, English pedagogy, and second language acquisition theories. I also explored broader topics that sparked my curiosity, including psychology, gender studies, and digital media. Some of my favorite classes examined social issues in Japan, gender inequality, and the political influence of digital platforms. My time there helped me build a strong foundation in the humanities, and it continues to shape how I view the world today.
 
-Site-wide configuration
+Where Code Meets Culture: My Journey into Digital Humanities
+======
+Building on my humanities foundation, I pursued a master’s degree in Digital Humanities—where I discovered my passion for coding, data, and programming languages. I became deeply fascinated by how powerful technical tools can be, and how they can simplify complex problems and ease real-world challenges. But this degree wasn’t just about learning how to use technology—it taught me how to adapt it to serve the humanities. I learned how digital systems function, what happens behind the scenes, and how their use can create both meaningful benefits and critical social questions. This experience strengthened my enthusiasm to grow a career in data and analysis—where I can work closely with data, learn how to speak to it, and understand how it wants to be spoken to. That’s the beginning of my journey forward.
+
+Current Focus/Career goals
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Currently exploring roles in data management, analytics and consulting roles, where I can combine technical tools with human-centered thinking to solve real-world problems.  
 
 Create content & metadata
 ------
