@@ -27,20 +27,25 @@ Currently exploring roles in data management, analytics and consulting roles, wh
 
 Project Highlights
 ------
--- A data visualization on period equity: Visualization dashboard by Tableau
+- A data visualization on period equity: Visualization dashboard by Tableau
+- A digital archive using Omeka
+- A Ren'py visual novel reflecting personal/cultural stories
+- A SQL project analyzing gender equity in Canada
 
--- A digital archive using Omeka
+**Course Overview**
 
--- A Ren'py visual novel reflecting personal/cultural stories
+Fall/Winter Terms 2024
+- DH510 Topics in Digital theory/culture: Connections, Mapping and Space
+- DH510 Topics in Digital theory/culture: Information Ethics
+- DH520 Topics in Tech concepts and approaches: Python
+- DH520 Topics in Tech concepts and approaches: Critical Algorithm Studies
+- DH530 Topics in Building in context: Developing Big-data Text Analysis
 
--- A SQL project analyzing gender equity in Canada
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
+Fall/Winter Terms 2025
+- DH510: Ethics of Artificial Intelligence
+- DH520 Topics in Tech concepts and approaches: SQL databases
+- DH530 Topics in Building in context: Affective Game Design
+- DH530 Topics in Building in context: Interactive Storytelling for Digital Humanities
 ------
 Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
