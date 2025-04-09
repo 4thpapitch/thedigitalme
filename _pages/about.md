@@ -55,6 +55,10 @@ Fall/Winter Terms 2025
 - XML/HTML/CSS: beginner
 - Data Visualization Tools: Power BI(beginner), Tableau
 
-For more info
+Recent Contributions:
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+- Volunteer to work with student group to distribute mentrual products on campus
+- Collaborate to work with a classmate for her project management
+- Data processing project (ongoing)
+- Registered for the online course: EXCPE5463 - Interllectual Property Strategy and Management
+- Completion of Linkedin Learning: SQL Essential Training
