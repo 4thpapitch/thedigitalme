@@ -23,8 +23,8 @@ Current Focus/Career goals
 ------
 Currently exploring roles in data management, analytics and consulting roles, where I can combine technical tools with human-centered thinking to solve real-world problems.  
 
-Project Highlights
-------
+**Project Highlights**
+
 - A data visualization on period equity: Visualization dashboard by Tableau
 - A digital archive using Omeka
 - A Ren'py visual novel reflecting personal/cultural stories
