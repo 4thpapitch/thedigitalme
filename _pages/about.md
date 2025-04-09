@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Digital Humanities Graduate | Data & Tech Enthusiast"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I come from a strong humanities background, with a deep passion for language, culture, and storytelling. After years of dedicated study in Japanese, I achieved fluency—but then I began to wonder, what’s next? That question led me to the world of data and technology. Through Digital Humanities, I discovered how different disciplines could come together. I learned how to teach data to speak, how to listen to what it reveals on its own, and how to design meaningful ways for it to communicate with others. Whatever the data category is, I believe every detail carries a story worth sharing—that’s where the intersection of humanities and computation works at its best.
 
 A data-driven personal website
 ======
