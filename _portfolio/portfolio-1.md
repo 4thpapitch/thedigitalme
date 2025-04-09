@@ -1,6 +1,7 @@
 ---
-title: "Digital Acrhives of Thai Amulets by Omeka"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Digital Acrhives for Thai Amulets by Omeka"
+excerpt: "A digital archive project using Omeka to document and preserve the cultural significance of Thai amulets. This project explores their spiritual and historical importance, aiming to make these artifacts accessible to a global audience. I designed an interactive platform that showcases various amulet types, their meanings, and the practices surrounding them, providing both educational value and cultural insight."
+[Archives Website](https://thaiamuletjourney.omeka.net/)
 collection: portfolio
 ---
 
