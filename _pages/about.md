@@ -7,11 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I come from a strong humanities background, with a deep passion for language, culture, and storytelling. After years of dedicated study in Japanese, I achieved fluency—but then I began to wonder, what’s next? That question led me to the world of data and technology. Through Digital Humanities, I discovered how different disciplines could come together. I learned how to teach data to speak, how to listen to what it reveals on its own, and how to design meaningful ways for it to communicate with others. Whatever the data category is, I believe every detail carries a story worth sharing—that’s where the intersection of humanities and computation works at its best.
-
-About me
+About ME
 ------
-I’m Papitchaya Boonmasuvaran (Fourth, usually go by this nickname), a Digital Humanities graduate with a passion for language, culture, and technology. After studying Japanese language and culture, I explored the power of data and programming in my master’s degree. Now, I blend my humanities background with technical skills to turn data into meaningful stories and insights. I’m excited to continue growing at the intersection of culture and computation.
+I come from a strong humanities background, with a deep passion for language, culture, and storytelling. After years of dedicated study in Japanese, I achieved fluency—but then I began to wonder, what’s next? That question led me to the world of data and technology. Through Digital Humanities, I discovered how different disciplines could come together. I learned how to teach data to speak, how to listen to what it reveals on its own, and how to design meaningful ways for it to communicate with others. Whatever the data category is, I believe every detail carries a story worth sharing—that’s where the intersection of humanities and computation works at its best.
 
 Background in Language and Culture studies
 ------
@@ -55,7 +53,7 @@ Fall/Winter Terms 2025
 - XML/HTML/CSS: beginner
 - Data Visualization Tools: Power BI(beginner), Tableau
 
-Recent Contributions:
+**Recent Contributions**
 ------
 - Volunteer to work with student group to distribute mentrual products on campus
 - Collaborate to work with a classmate for her project management
