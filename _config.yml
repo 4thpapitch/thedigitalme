@@ -216,7 +216,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  experiments:
+  publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
