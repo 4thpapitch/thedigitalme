@@ -1,8 +1,8 @@
 ---
 title: "Ren'Py Visual Novel about Self-acceptance and identity crisis"
-collection: publications
+collection: experiments
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /experiments_DH530/2010-10-01-paper-title-number-2
 excerpt: 'Visual Novel by Ren'Py'
 date: 2010-10-01
 venue: 'Journal 1'
