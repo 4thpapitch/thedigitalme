@@ -1,8 +1,8 @@
 ---
 title: "First Game Experiment"
-collection: publications
+collection: experiments
 category: manuscripts
-permalink: /publication/scratch_game_experiment
+permalink: /experiments_DH530/scratch_game_experiment
 excerpt: 'Very first experiment with game making: Scratch'
 date: 2009-10-01
 venue: 'Journal 1'
