@@ -1,5 +1,5 @@
 ---
-title: "Ren'Py Visual Novel about Self-acceptance and identity crisis"
+title: "Ren'Py Visual Novele: The Onigiri You Don’t See”"
 collection: experiments
 category: manuscripts
 permalink: /experiments_DH530/2010-10-01-paper-title-number-2
@@ -11,4 +11,4 @@ paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+A cozy yet emotionally layered visual novel created in Ren'Py. Set in an Onigiri café, this story explores themes of identity, taste, and belonging through the eyes of rice ball characters with distinct flavors and personalities. Each onigiri has a past shaped by their experiences at Onigiri School—and each is trying to find pride in what makes them different.
