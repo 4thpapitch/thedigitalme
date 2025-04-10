@@ -10,8 +10,8 @@
 main:
    - title: "CV"
     url: /cv/
-    
-    - title: "Experoments"
+
+    - title: "Experiments"
     url: /experiments_DH530/  
 
   - title: "Portfolio"
