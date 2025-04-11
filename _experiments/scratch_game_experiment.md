@@ -1,15 +1,11 @@
 ---
-title: "Scratch: First Game Experiment"
+title: "My First Game in Scratch"
 collection: experiments
 category: manuscripts
 permalink: /experiments/scratch_game_experiment
-excerpt: 'Very first experiment with game making: Scratch'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'Very first experiment with game making using Scratch'
+date: 2022-07-19
 ---
-First time making a simple game using Scratch. This game was done through CS50 course taught by Harvard University. I had fun making this game and this was the first step getting me into understaning machine languages and coding experience.
+Created as part of the CS50 course by Harvard University, this project marks my very first experience building a game using Scratch. It was not only a fun and creative process but also my introduction to computational thinking, programming logic, and the fundamentals of coding. While simple, this game represents a meaningful milestone—the moment I first stepped into the world of technology and realized the potential of combining creativity with code.
+
 <iframe src="https://scratch.mit.edu/projects/715144531/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
