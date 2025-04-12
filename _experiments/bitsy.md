@@ -1,7 +1,7 @@
 ---
 title: "Bitsy Pixel Game: Icecream finds its way home"
 collection: experiments
-category: manucripts
+category: manuscripts
 permalink: /experiments/bitsy
 excerpt: 'Bitsy Experiment with pixels and blocks'
 date: 2025-03-04
