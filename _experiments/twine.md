@@ -4,7 +4,7 @@ collection: experiments
 category: manuscripts
 permalink: /experiments/twine
 excerpt: 'Language Barrier and Life stuggles portrayed through an interactive fiction'
-date: 2025-03-22
+date: 2025-02-25
 ---
 
 As part of my DH530 project, I wanted to share a personal journey, one that captures the language barriers and quiet struggles of being an international student.
