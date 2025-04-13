@@ -1,10 +1,16 @@
 ---
-title: "Ren'Py Visual Novele: The Onigiri You Don’t See"
+title: "Onigiri no Kokoro — A Cozy Visual Novel About Taste, Identity, and Belonging"
 collection: experiments
 category: manuscripts
 permalink: /experiments/renpy_onigiri
-excerpt: 'Visual Novel by RenPy'
+excerpt: 'A cozy yet emotionally layered visual novel created in Ren'Py'
 date: 2025-04-08
 ---
 
-A cozy yet emotionally layered visual novel created in Ren'Py. Set in an Onigiri café, this story explores themes of identity, taste, and belonging through the eyes of rice ball characters with distinct flavors and personalities. Each onigiri has a past shaped by their experiences at Onigiri School—and each is trying to find pride in what makes them different.
+Set in a charming Onigiri café, this story invites players into a world where rice balls come to life — each with a unique flavor, personality, and a quiet longing to be understood. Through playful dialogue and tender moments, Onigiri no Kokoro explores themes of identity, self-worth, and the power of choice.
+
+Each onigiri character carries a history shaped by their time at Onigiri School, where expectations and stereotypes often clouded their sense of self. As they await their next customer, doubts bubble to the surface: Is a plain rice onigiri too boring? Do all cats really love salmon? What happens when someone chooses you for something you never expected?
+
+It’s a gentle story about being seen, being different, and finding comfort in your own flavor even when the world tells you otherwise.
+
+[Download the game on itch.io](https://4thpapitch.itch.io/onigiri-has-a-story-to-tell)
