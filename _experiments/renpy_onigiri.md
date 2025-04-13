@@ -2,6 +2,7 @@
 title: "Onigiri no Kokoro — A Cozy Visual Novel About Taste, Identity, and Belonging"
 collection: experiments
 permalink: /experiments/renpy_onigiri
+category: manuscripts
 excerpt: 'A cozy yet emotionally layered visual novel created in RenPy'
 date: 2025-04-08
 ---
