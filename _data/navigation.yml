@@ -9,7 +9,7 @@
 
 main:
   - title: "Manifesto"
-    url: /terms/
+    url: /manifesto/
 
   - title: "CV"
     url: /cv/
