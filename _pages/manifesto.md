@@ -1,6 +1,6 @@
 ---
 permalink: /manifesto/
-title: "Terms and Privacy Policy"
+title: "Reflection on scholar maker journey"
 modified: 2016-06-06
 ---
 
