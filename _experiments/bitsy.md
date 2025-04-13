@@ -1,5 +1,5 @@
 ---
-title: "Bitsy Pixel Game: Icecream finds its way home"
+title: "Bitsy Pixel Game: Ice Cream Returning Home"
 collection: experiments
 category: manuscripts
 permalink: /experiments/bitsy
@@ -7,4 +7,4 @@ excerpt: 'Bitsy Experiment with pixels and blocks'
 date: 2025-03-04
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+A simple, heartwarming adventure in Bitsy where you play as an ice cream avatar on a mission to return to the fridge. As you journey through colorful, quirky environments, you’ll encounter obstacles that challenge your path home. It’s a story about finding your way back to what you truly need, one step at a time while being considerate (or not) of other beings. Join the ice cream on this sweet and reflective journey, and embrace the joy of returning home.
