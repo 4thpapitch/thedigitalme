@@ -1,5 +1,5 @@
 ---
-title: "Onigiri no Kokoro — A Cozy Visual Novel About Taste, Identity, and Belonging"
+title: 'Onigiri no Kokoro — A Cozy Visual Novel About Taste, Identity, and Belonging'
 collection: experiments
 category: manuscripts
 permalink: /experiments/renpy_onigiri
