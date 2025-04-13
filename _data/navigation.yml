@@ -9,8 +9,8 @@
 
 main:
   - title: "Manifesto"
-    url: /manifesto/
-    
+    url: /terms/
+
   - title: "CV"
     url: /cv/
 
