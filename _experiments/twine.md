@@ -1,7 +1,6 @@
 ---
 title: "Storytelling with Twine"
 collection: experiments
-category: manuscripts
 permalink: /experiments/twine
 excerpt: 'Language Barrier and Life stuggles portrayed through an interactive fiction'
 date: 2025-02-25
