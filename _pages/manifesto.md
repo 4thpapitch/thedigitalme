@@ -24,4 +24,4 @@ As a result, my approach to research has shifted from being purely analytical an
 
 By making, I’ve realized that every creation carries intention—whether it's polished, messy, or somewhere in between. When I have to embody my own purpose and meaning into a project, I become more aware of the why behind each decision. This awareness has changed how I approach research. I now see media not just as content to analyze, but as something made—with choices, constraints, and values embedded in it. Even a glitchy, imperfect piece communicates something. This shift has moved me away from a purely traditional, theoretical way of working toward something more open, experimental, and non-linear. I think making has loosened the boundaries of what research can be—less formal, more curious, and more alive.
 
-* View more of my making outcomes in the section: experiment
+* View more of my making outcomes in the section: Experiments
