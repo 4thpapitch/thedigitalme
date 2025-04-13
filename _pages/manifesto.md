@@ -1,6 +1,6 @@
 ---
 permalink: /manifesto/
-title: "Reflection on scholar maker journey"
+title: "My Growth as a Scholar-Maker"
 modified: 2016-06-06
 ---
 
