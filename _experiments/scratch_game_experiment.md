@@ -1,7 +1,6 @@
 ---
 title: "My First Game in Scratch"
 collection: experiments
-category: manuscripts
 permalink: /experiments/scratch_game_experiment
 excerpt: 'Very first experiment with game making using Scratch'
 date: 2022-07-19
