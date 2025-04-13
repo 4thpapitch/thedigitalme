@@ -4,9 +4,6 @@ title: "My Growth as a Scholar-Maker"
 # modified: 2016-06-06
 ---
 
-{% include base_path %}
-{% include toc %}
-
 ### Shifting My Understanding
 Through the process of making, I had to intentionally embed my own meaning, purpose, and emotions into the work. This changed the way I think about both media and research. I became more critical and curious—not just asking what something is, but why it exists, and how it’s trying to communicate. I realized that even things that seem broken, simple, or “just for fun” are full of intention.
 
