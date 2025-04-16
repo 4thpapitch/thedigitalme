@@ -55,8 +55,8 @@ Fall/Winter Terms 2025
 
 **Recent Contributions**
 ------
-- Volunteer to work with student group to distribute mentrual products on campus
-- Collaborate to work with a classmate for her project management
+- Volunteered to work with a student group to distribute mentrual products on campus
+- Collaborated to work with a classmate for her project management
 - Data processing project (ongoing)
 - Registered for the online course: EXCPE5463 - Interllectual Property Strategy and Management
 - Completion of Linkedin Learning: SQL Essential Training
