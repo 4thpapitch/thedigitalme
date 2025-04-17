@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Digital Humanities Graduate Data & Tech Enthusiast"
+title: "Digital Humanities Graduate l Data & Tech Enthusiast"
 author_profile: true
 redirect_from: 
   - /about/
