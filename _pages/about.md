@@ -17,7 +17,7 @@ During my bachelor’s studies in Language and Culture, I focused on Japanese la
 
 Where Code Meets Culture: My Journey into Digital Humanities
 ------
-Building on my humanities foundation, I pursued a master’s degree in Digital Humanities—where I discovered my passion for coding, data, and programming languages. I became deeply fascinated by how powerful technical tools can be, and how they can simplify complex problems and ease real-world challenges. But this degree wasn’t just about learning how to use technology—it taught me how to adapt it to serve the humanities. I learned how digital systems function, what happens behind the scenes, and how their use can create both meaningful benefits and critical social questions. This experience strengthened my enthusiasm to grow a career in data and analysis—where I can work closely with data, learn how to speak to it, and understand how it wants to be spoken to. That’s the beginning of my journey forward.
+Building on my humanities foundation, I pursued a master’s degree in Digital Humanities—where I discovered my passion for coding, data, and programming languages. I became deeply fascinated by how powerful technical tools can be, and how they can simplify complex problems and ease real-world challenges. But this degree wasn’t just about learning how to use technology—it taught me how to adapt it to serve the humanities. I learned how digital systems function, what happens behind the scenes, and how their use can create both meaningful benefits and critical social questions. This experience strengthened my enthusiasm to grow a career in data and analysis—where I can work closely with data.
 
 Current Focus/Career goals
 ------
