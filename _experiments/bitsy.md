@@ -1,5 +1,6 @@
 ---
 title: "Bitsy Pixel Game: Ice Cream Returning Home"
+image: images/bitsy.png
 collection: experiments
 permalink: /experiments/bitsy
 excerpt: 'Bitsy Experiment with pixels and blocks'
